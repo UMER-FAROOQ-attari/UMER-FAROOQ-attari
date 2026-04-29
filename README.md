@@ -1,90 +1,112 @@
+<!-- ================= ULTRA HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Umer%20Farooq&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Passionate%20Full-Stack%20Web%20Developer&descAlignY=55&descFontSize=20" alt="Muhammad Umer Farooq" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:6C63FF,70:FF00AA,100:00F7FF&height=280&section=header&text=MUHAMMAD%20UMER%20FAROOQ&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Full-Stack%20Engineer%20⚡%20|%20Building%20Future&descAlignY=65&descFontSize=22" />
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94C857&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Muhammad+Umer+Farooq;A+Passionate+Full-Stack+Web+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
-  </a>
-</h1>
-
+<!-- ================= TERMINAL TYPING ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umer-farooq-attari&label=Profile%20views&color=0e75b6&style=flat" alt="umer-farooq-attari" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=>+Initializing+Profile...;>+Loading+Skills...;>+Full+Stack+Developer+Ready;>+Let's+Build+Something+Epic+🚀" />
 </p>
 
+<!-- ================= SOCIAL ================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnhrdXNxcGR6YnExZzljNnl6NnV6azRvaDNkZGxyOTIyam0ycG0xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="350">
+  <a href="https://www.youtube.com/@khadeemattar"><img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FACEBOOK-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00AA"/></a>
+  <a href="mailto:khadeemattar@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/></a>
 </p>
 
-<br>
+---
 
-<h2 align="center">✨ About Me</h2>
-<div align="center">
-  
-- 🔭 I’m currently working on **Modern Web Apps & E-commerce platforms**
-- 🌱 I’m currently learning **Advanced Backend (Node.js, MongoDB, MySQL)**
-- 💬 Ask me about **React.js, Next.js, Tailwind CSS, and JavaScript**
-- 📫 How to reach me **khadeemattar@gmail.com**
-- ⚡ Fun fact **I run on caffeine and clean code ☕💻**
-  
-</div>
+# 💻 ABOUT ME  
 
-<br>
-
-<h3 align="center">🤝 Connect with me</h3>
 <p align="center">
-  <a href="https://www.facebook.com/share/1dbzn1a2nc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1dbzn1a2nc/" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/umer_farooqattari?igsh=mwp6exo1yw9pbgc1aw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/umer_farooqattari?igsh=mwp6exo1yw9pbgc1aw==" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@khadeemattar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@khadeemattar" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" alt="express" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="firebase" />
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-</p>
-
-<br>
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umer-farooq-attari&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="umer-farooq-attari trophies" />
-</p>
-
-<br>
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <a href="https://github.com/umer-farooq-attari">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-farooq-attari&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Umer's GitHub Stats" />
-  </a>
-  <a href="https://github.com/umer-farooq-attari">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umer-farooq-attari&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Umer's Top Languages" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="450"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umer-farooq-attari&theme=tokyonight&hide_border=true" alt="umer-farooq-attari streak" />
+
+🔥 Passionate Full Stack Developer  
+🚀 Building Scalable Web Apps & SaaS  
+🧠 Learning Advanced Backend + AI  
+⚡ Obsessed with Clean UI & Performance  
+
+</p>
+---
+
+# ⚡ TECH STACK (ANIMATED STYLE)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,nodejs,express,mongodb,mysql,git,github&theme=dark"/>
+</p>
+
+---
+
+# 🧠 SKILLS PROGRESS (ANIMATED BARS)
+
+<p align="center">
+
+<img src="https://progress-bar.dev/90/?title=Frontend&color=00F7FF"/>
+<img src="https://progress-bar.dev/85/?title=Backend&color=6C63FF"/>
+<img src="https://progress-bar.dev/80/?title=Database&color=FF00AA"/>
+<img src="https://progress-bar.dev/75/?title=Problem%20Solving&color=00F7FF"/>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🏆 ACHIEVEMENTS  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umer-farooq-attari&theme=algolia&no-frame=true"/>
+</p>
+
+---
+
+# 📊 GITHUB ANALYTICS  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umer-farooq-attari&show_icons=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&icon_color=FF00AA&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer-farooq-attari&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&animation=fadeIn&fontAlignY=50" alt="Footer Banner" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umer-farooq-attari&theme=tokyonight&hide_border=true&ring=FF00AA&fire=00F7FF"/>
+</p>
+
+---
+
+# ⚡ DEV QUOTE  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=umer-farooq-attari&repo=helplytics-ai-hackathon&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+# 👀 PROFILE VIEWS  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umer-farooq-attari&color=FF00AA&style=for-the-badge"/>
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:6C63FF,70:FF00AA,100:00F7FF&height=140&section=footer&text=BUILD%20WITH%20PASSION%20🔥&fontSize=28&fontColor=FFFFFF"/>
 </p>
